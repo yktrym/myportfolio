@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  font-family: 'Montserrat',sans-serif;
+}
+
+body{
+  background-image: url(../images/waterdrop3.jpg);
+}
+
+
+
+.header{
+  background-color: palevioletred;
+  color: brown;
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  width: 60%;
+  height: 100px;
+  margin: auto;
+  padding-top: 30px;
+}
+
+.container{
+  background-color: pink;
+  color: brown;
+  font-size: 1.5em;
+  width: 60%;
+  height: 200px;
+  margin: 20px auto;
+  padding: 30px 0;
+}
+
+.box{
+  width: 80%;
+  margin: auto auto 10px auto;
+}
+
+.container1{
+  background-color: pink;
+  color: brown;
+  font-size: 1.5em;
+  width: 60%;
+  height: 300px;
+  margin: 20px auto;
+  padding: 30px 0;
+}
+
+.container2{
+  background-color: pink;
+  color: brown;
+  font-size: 1.5em;
+  width: 60%;
+  height: 220px;
+  margin: 20px auto;
+  padding: 30px 0;
+}
+
+.container3{
+  background-color: pink;
+  color: brown;
+  font-size: 1.5em;
+  width: 60%;
+  height: 220px;
+  margin: 20px auto;
+  padding: 30px 0;
+}
+
+
+
+table{
+  border-collapse: collapse;
+  border-color: brown;
+  width: 50%;
+  margin: auto;
+  font-size: 1em;
+}
+
+tr{
+  text-align: center;
+}
+
+th{
+  padding: 20px;
+  background-color: brown;
+  color: aliceblue;
+}
+
+td{
+  padding: 20px;
+}
+
+
+p.copywrite{
+  text-align: center;
+}
+
